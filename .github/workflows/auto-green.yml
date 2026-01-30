@@ -17,6 +17,6 @@ jobs:
       - name: Auto green
         run: |
           git config --local user.email "kylechoi4200@gmail.com"
-          git config --local user.name "Crypto_paperplane"
+          git config --local user.name "Cryptopaperplane"
           git commit --allow-empty -m "docs: update log"
           git push
